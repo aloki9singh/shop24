@@ -1,0 +1,20 @@
+{
+  "name": "shop24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloki9singh/shop24.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloki9singh/shop24/issues"
+  },
+  "homepage": "https://github.com/aloki9singh/shop24#readme"
+}
